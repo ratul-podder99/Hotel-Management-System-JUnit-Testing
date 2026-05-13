@@ -1,0 +1,15 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Eclipse project files (not needed on GitHub)
+.settings/
+.classpath
+.project
+
+# Runtime data file (changes every run, not source code)
+hotel.dat
+
+# OS files
+.DS_Store
+Thumbs.db
